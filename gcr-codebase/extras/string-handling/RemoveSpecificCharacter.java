@@ -11,7 +11,7 @@ public class RemoveSpecificCharacter {
         String input = sc.nextLine();
 
         // take character to remove
-        System.out.println("Enter the character to remove:");
+        System.out.println("Enter the character to remove:"); 
         char removeChar = sc.next().charAt(0);
 
         String result = "";   // to store modified string
