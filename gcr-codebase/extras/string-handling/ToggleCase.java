@@ -16,7 +16,7 @@ public class ToggleCase {
         for (int i = 0; i < input.length(); i++) {
 
             char ch = input.charAt(i);
-
+ 
             // if character is uppercase, convert to lowercase
             if (ch >= 'A' && ch <= 'Z') {
                 result = result + (char)(ch + 32);
