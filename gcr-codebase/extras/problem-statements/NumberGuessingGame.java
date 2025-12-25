@@ -8,7 +8,7 @@ public class NumberGuessingGame {
     }
 
     // Method to get feedback from the user (high/low/correct)
-    public static String getFeedback(Scanner scanner) {
+    public static String getFeedback(Scanner scanner) { 
         System.out.print("Is the guess High, Low, or Correct? ");
         return scanner.nextLine().toLowerCase();
     }
