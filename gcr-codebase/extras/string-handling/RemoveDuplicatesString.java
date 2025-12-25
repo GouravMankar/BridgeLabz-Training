@@ -10,7 +10,7 @@ public class RemoveDuplicatesString {
         for (int i = 0; i < str.length(); i++) {
 
             char ch = str.charAt(i);   // get current character
-
+ 
             // check if character is already present
             if (result.indexOf(String.valueOf(ch)) == -1) {
                 result.append(ch);    // add character if not present
