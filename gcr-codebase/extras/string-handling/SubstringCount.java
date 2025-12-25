@@ -13,7 +13,7 @@ public class SubstringCount {
         // take substring as input
         System.out.println("Enter the substring to search:");
         String sub = sc.nextLine();
-
+ 
         int count = 0;   // to store number of occurrences
         int index = 0;   // starting index for search
 
