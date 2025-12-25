@@ -10,7 +10,7 @@ public class VowelConsonantCount {
             ch = (char) (ch + 32);
         }
 
-        // Check if character is a letter
+        // Check if character is a letter 
         if (ch >= 'a' && ch <= 'z') {
 
             // Check for vowels
