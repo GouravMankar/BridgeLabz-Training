@@ -4,7 +4,7 @@ public class LongestWordInput {
 
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); 
 
         // taking sentence as input
         System.out.println("Enter a sentence:");
