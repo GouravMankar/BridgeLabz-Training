@@ -11,7 +11,7 @@ public class TemperatureConverter {
     public static double toFahrenheit(double c) {
         return (c * 9 / 5) + 32;
     }
-
+ 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
