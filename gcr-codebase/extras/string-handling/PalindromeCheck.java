@@ -8,7 +8,7 @@ public class PalindromeCheck {
         while (start < end) {
             if (text.charAt(start) != text.charAt(end)) return false;
             start++; end--;
-        }
+        } 
         return true;
     }
 
