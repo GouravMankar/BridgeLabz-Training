@@ -7,7 +7,7 @@ public class AnagramCheck {
 
         int[] freq1 = new int[256];
         int[] freq2 = new int[256];
-
+ 
         for (int i = 0; i < text1.length(); i++) {
             freq1[text1.charAt(i)]++;
             freq2[text2.charAt(i)]++;
