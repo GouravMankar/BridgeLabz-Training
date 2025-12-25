@@ -10,7 +10,7 @@ public class ReplaceWord {
 
         while (i < sentence.length()) {
 
-            // check if oldWord matches at current position
+            // check if oldWord matches at current position 
             if (i + oldWord.length() <= sentence.length()
                     && sentence.substring(i, i + oldWord.length()).equals(oldWord)) {
 
