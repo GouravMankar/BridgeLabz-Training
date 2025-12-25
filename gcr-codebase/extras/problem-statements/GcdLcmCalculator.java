@@ -10,7 +10,7 @@ public class GcdLcmCalculator {
             a = temp;
         }
         return a;
-    }
+    } 
 
     // Method to calculate LCM
     public static int lcm(int a, int b) {
