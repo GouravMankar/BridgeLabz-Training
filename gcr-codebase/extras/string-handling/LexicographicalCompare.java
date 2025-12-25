@@ -6,7 +6,7 @@ public class LexicographicalCompare {
 
         Scanner sc = new Scanner(System.in);
 
-        // take first string
+        // take first string 
         System.out.println("Enter first string:");
         String str1 = sc.nextLine();
 
