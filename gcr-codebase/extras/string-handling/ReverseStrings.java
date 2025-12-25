@@ -11,7 +11,7 @@ public class ReverseStrings {
 		// empty string to add characters
 		String rev = "";
 		
-		for(int i=text.length()-1; i>=0; i--)
+		for(int i=text.length()-1; i>=0; i--) 
 		{
 			rev = rev + text.charAt(i);
 		}
