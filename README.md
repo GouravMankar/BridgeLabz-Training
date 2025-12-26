@@ -2,28 +2,16 @@
 
 ---
 
-### 🗓 Day 1 – Git & GitHub Setup  
-*(Date: 16-Dec-2025)*
 
-- Installed and configured Git.
-- Set up GitHub repository.
+##  Day 1 – Git & GitHub Setup
+*Date:* 16-Dec-2025
 
-BridgeLabz-Training/
-│── core-java-practice/
-│ │── gcr-codebase/
-│ │ │── arrays/
-│ │ │── control-flow/
-│ │ │── extras/
-│ │ │── methods/
-│ │ │── programming-elements/
-│ │ │── programming-requisites/
-│ │ │── strings/
-│ │── leet-code-codebase/
-│ │── scenario-based-codebase/
-│── README.md
+- Installed and configured Git
+- Set up GitHub repository
+- <img width="729" height="559" alt="image" src="https://github.com/user-attachments/assets/0d4ea2ec-e862-4f96-aa3c-b533e3a80438" />
 
-- Learned basic Git commands (init, clone, add, commit, push).
-- Successfully pushed files to the remote repository.
+- Learned Git commands: init, status, add, commit, push
+- Pushed initial files to GitHub
 
 ---
 
