@@ -114,10 +114,23 @@
 
 ---
 
- ## Day 9 - Classes, Objects and Introduction to OOPs
+ ## Day 9 - Classes, Objects and Introduction to OOPs And Scenario based
 *Date:* 26-Dec-2025
 
 - Learned Classes and Objects in Java
 - Understood how to define class structure and create objects
 - Started Implementing Object-Oriented Programming System (OOPS) concepts
 - *Code Link:* [classesandobjects](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+
+Practiced 3 scenario-based questions
+- Used switch statement for decision making
+- Implemented ternary operator and do-while loop
+- *Code Link:* [Scenario Based](https://github.com/GouravMankar/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+ ## Day 10 - Constructor and Access Modifiers
+*Date:* 27-Dec-2025
+
+- Practiced default, parameterized, non-parameterized, and copy constructors
+- Learned access modifiers in Java
+- Implemented instance methods
+- *Code Link:* [Constructor and access modifires](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors)
