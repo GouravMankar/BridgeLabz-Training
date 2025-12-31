@@ -107,3 +107,11 @@
 - Practiced extra built-in methods
 - Learned math.random, math.pow(),etc
 - *Code Link:* [extras](https://github.com/GouravMankar/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+## Day 9 - Scenario based questions
+*Date:* 26-Dec-2025
+
+- Practiced 3 scenario-based questions
+- Used switch statement for decision making
+- Implemented ternary operator and do-while loop
+- *Code Link:* [Scenario Based](https://github.com/GouravMankar/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
