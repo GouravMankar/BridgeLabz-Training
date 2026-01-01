@@ -5,3 +5,12 @@
 - Understood how to define class structure and create objects
 - Started Implementing Object-Oriented Programming System (OOPS) concepts
 - *Code Link:* [classesandobjects](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+
+
+ ## Day 10 - Constructor and Access Modifiers
+*Date:* 27-Dec-2025
+
+- Practiced default, parameterized, non-parameterized, and copy constructors
+- Learned access modifiers in Java
+- Implemented instance methods
+- *Code Link:* [Constructor and access modifires](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors)
