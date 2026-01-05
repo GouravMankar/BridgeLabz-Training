@@ -1,6 +1,6 @@
 package com.linkedlist.doublylinkedlist.texteditorundoredo;
 
-public class TextEditorUndoRedoDLL {
+public class TextEditorUndoRedo {
 
     public static void main(String[] args) {
 
