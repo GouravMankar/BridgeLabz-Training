@@ -83,3 +83,14 @@
 - *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
 ---
+## Day 18 - Scenario Based
+*Date:* 06-Jan-2026
+- Solved 4 scenario based question
+- Scenarios Covered:
+ - EduMentor – Personalized Learning Platform
+ - FitTrack – Your Personal Fitness Tracker
+ - PetPal – Virtual Pet Care App
+ - EventEase – Event Management Platform
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
