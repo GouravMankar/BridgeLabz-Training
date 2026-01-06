@@ -127,6 +127,7 @@ Practiced 3 scenario-based questions
 - Implemented ternary operator and do-while loop
 - *Code Link:* [Scenario Based](https://github.com/GouravMankar/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
+---
  ## Day 10 - Constructor and Access Modifiers
 *Date:* 27-Dec-2025
 
@@ -134,3 +135,14 @@ Practiced 3 scenario-based questions
 - Learned access modifiers in Java
 - Implemented instance methods
 - *Code Link:* [Constructor and access modifires](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors)
+
+---
+## Day 11 - Static Members, this Keyword & instanceof Operator
+*Date:* 29-Dec-2025
+- Practiced 5 scenario-based questions
+- *Code Link:* [Scenario Based](https://github.com/GouravMankar/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase).
+- Practiced questions on static variables, static methods and this keyword
+- Learned and implemented the instanceof operator
+- *Code Link:* [keywords](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
+
+---
