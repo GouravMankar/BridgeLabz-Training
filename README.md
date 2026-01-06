@@ -26,3 +26,12 @@
 - *Code Link:* [keywords](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
 
 ---
+
+## Day 12 - Object Modeling in Java
+*Date:* 30-Dec-2025
+- Studied Object Modeling concepts
+- Understood Association between classes
+- Learned Aggregation (HAS-A relationship – weak coupling) and Composition (HAS-A relationship – strong coupling)
+- *Code Link:* [objectmodeling](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodeling)
+
+---
