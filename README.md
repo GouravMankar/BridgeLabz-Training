@@ -6,6 +6,7 @@
 - Started Implementing Object-Oriented Programming System (OOPS) concepts
 - *Code Link:* [classesandobjects](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
+---
 
  ## Day 10 - Constructor and Access Modifiers
 *Date:* 27-Dec-2025
@@ -14,3 +15,14 @@
 - Learned access modifiers in Java
 - Implemented instance methods
 - *Code Link:* [Constructor and access modifires](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors)
+
+---
+
+## Day 11 - Static Members, this Keyword & instanceof Operator
+*Date:* 29-Dec-2025
+- Practiced questions on static variables and static methods
+- Understood the use of the this keyword in Java
+- Learned and implemented the instanceof operator
+- *Code Link:* [keywords](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/keywords)
+
+---
