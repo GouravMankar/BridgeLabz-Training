@@ -64,3 +64,12 @@
 - *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
 ---
+## Day 16 - Scenario Based
+*Date:* 03-Jan-2026
+- Solved 2 scenario based question
+- Scenarios Covered:
+ - CabbyGo – A Ride-Hailing App in the Making
+ - MyBank – Managing Customer Accounts
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
