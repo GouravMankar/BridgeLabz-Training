@@ -73,3 +73,13 @@
 - *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
 ---
+
+## Day 17 - Scenario Based
+*Date:* 05-Jan-2026
+- Solved 2 scenario based question
+- Scenarios Covered:
+ - CampusConnect – College Information System
+ - SwiftCart – The Grocery Shopping App
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
