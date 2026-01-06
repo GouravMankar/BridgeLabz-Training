@@ -35,3 +35,11 @@
 - *Code Link:* [objectmodeling](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodeling)
 
 ---
+
+## Day 13 - Inheritance in Java
+*Date:* 31-Dec-2025
+- Implemented Single Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Hybrid Inheritance (using interfaces)
+- Solved assisted inheritance-based problems for better clarity
+- *Code Link:* [Inheritance](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+
+---
