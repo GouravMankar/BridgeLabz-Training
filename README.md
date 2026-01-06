@@ -52,3 +52,15 @@
 - *Code Link:* [FourPillarsImplementation](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/fourpillarsimplementation)
 
 ---
+## Day 15 - Scenario Based
+*Date:* 02-Jan-2026
+- Solved 5 scenario based question
+- Scenarios Covered:
+ - Hospital Patient Management System
+ - Vehicle Rental Application
+ - University Course Enrollment System
+ - E-Wallet Application
+ - Smart Home Automation System
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
