@@ -221,3 +221,14 @@ Practiced 3 scenario-based questions
 - *Code Link:* [Sorting Algorithm](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/sortings)
 
 ---
+
+## Day 18 - Strings, File Handling & Searching Techniques
+*Date:* 06-Jan-2026
+
+- Practiced StringBuilder and StringBuffer with real-world problems like reversing strings, removing duplicates, and performance comparison
+- Worked on file handling using FileReader and InputStreamReader, including file reading, word counting, and handling encodings
+- Implemented Linear Search for unsorted data and simple search-based problems
+- Practiced Binary Search on sorted data for advanced cases like rotation point, peak element, and 2D matrix search
+- Solved 2 Scenario Based Question like EduMentor, FitTrack, PetPal and EventEase
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+- *Code Link:* [Searching Techniques](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/linearandbinarysearch)
