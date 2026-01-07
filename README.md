@@ -1,6 +1,6 @@
 # BridgeLabz-Training
 
-### 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+###  Week 1: Programming Elements
 
 ---
 
@@ -17,19 +17,19 @@
 
 ---
 
-### 🗓 Day 2 – Git Practice & Basic Java Programs  
+###  Day 2 – Git Practice & Basic Java Programs  
 *(Date: 17-Dec-2025)*
 
 - Practiced Git workflow to understand commits and version control.
 - Solved very basic Java programs to understand syntax and structure.
 - Practiced adding, committing, and pushing Java files to GitHub.
 
-🔗 *Code Link:*  
-👉 [Day 2 – Basic Java Programs](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-requisites)
+ *Code Link:*  
+ [Day 2 – Basic Java Programs](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-requisites)
 
 ---
 
-### 🗓 Day 3 – Programming Elements in Java  
+###  Day 3 – Programming Elements in Java  
 *(Date: 18-Dec-2025)*
 
 - Studied Java programming elements:
@@ -39,12 +39,12 @@
 - Solved practice problems based on programming elements.
 - Committed and pushed solutions to the repository.
 
-🔗 *Code Link:*  
-👉 [Day 3 – Programming Elements](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+ *Code Link:*  
+ [Day 3 – Programming Elements](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
-### 🗓 Day 4 – Control Flow & Logical Constructs  
+###  Day 4 – Control Flow & Logical Constructs  
 *(Date: 19-Dec-2025)*
 
 - Studied logical constructs in Java:
@@ -61,12 +61,12 @@
   - Prime number check
 - Committed and pushed solutions to the repository.
 
-🔗 *Code Link:*  
-👉 [Day 4 – Control Flow](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+ *Code Link:*  
+ [Day 4 – Control Flow](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ---
 
-### 🗓 Day 5 – Arrays & Basic Problem Solving  
+###  Day 5 – Arrays & Basic Problem Solving  
 *(Date: 20-Dec-2025)*
 
 - Studied arrays in Java:
@@ -79,11 +79,14 @@
 - Strengthened logical thinking using array problems.
 - Committed and pushed solutions to the repository.
 
-🔗 *Code Link:*  
-👉 [Day 5 – Arrays](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+ *Code Link:*  
+ [Day 5 – Arrays](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
+###  Week 2: Core java and Introduction to OOPs
+
+---
 
   ## Day 6 - Methods
 *Date:* 22-Dec-2025
@@ -137,6 +140,10 @@ Practiced 3 scenario-based questions
 - *Code Link:* [Constructor and access modifires](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors)
 
 ---
+###  Week 3: OOPs Concepts and Data Structures Basics
+
+---
+
 ## Day 11 - Static Members, this Keyword & instanceof Operator
 *Date:* 29-Dec-2025
 - Practiced 5 scenario-based questions
@@ -184,5 +191,18 @@ Practiced 3 scenario-based questions
 - Solved 5 Scenario Based Questions
 - *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 - *Code Link:* [Linked List](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/datastructurepractice/src/com/linkedlist)
+
+---
+## Day 16 - Stacks, Queues & Hash Maps
+*Date:* 03-Jan-2026
+
+- Learned best practices of Stacks and Queues and their real-world use cases
+- Practiced problems like Queue using Stacks, Stock Span, Sliding Window Maximum, and Circular Tour
+- Understood different queue types and safe handling of underflow/overflow
+- Worked with Hash Maps for efficient lookup using problems like Two Sum, Zero Sum Subarrays, and Longest Consecutive Sequence
+- Solved 2 Scenario Based Question like Cabbygo and MyBank
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+- *Code Link:* [StackandQueue](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/stackandqueue)
+- *Code Link:* [HashMap](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/hashmapsandhashfunctions)
 
 ---
