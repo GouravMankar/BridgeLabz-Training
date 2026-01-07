@@ -20,7 +20,6 @@
 - *Code Link:* [HashMap](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/hashmapsandhashfunctions)
 
 ---
----
 ## Week 4 – DSA & Advanced Java Concepts ##
 
 
@@ -34,3 +33,11 @@
 - *Code Link:* [Sorting Algorithm](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/sortings)
 
 ---
+## Day 18 - Strings, File Handling & Searching Techniques
+*Date:* 06-Jan-2026
+
+- Practiced StringBuilder and StringBuffer with real-world problems like reversing strings, removing duplicates, and performance comparison
+- Worked on file handling using FileReader and InputStreamReader, including file reading, word counting, and handling encodings
+- Implemented Linear Search for unsorted data and simple search-based problems
+- Practiced Binary Search on sorted data for advanced cases like rotation point, peak element, and 2D matrix search
+- *Code Link:* [Searching Techniques](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/linearandbinarysearch)
