@@ -4,8 +4,7 @@ public class FitTrackApp {
 
     public static void main(String[] args) {
 
-        UserProfile user = new UserProfile(
-                "Gourav", 21,70.5,"Weight Loss",2500 );
+        UserProfile user = new UserProfile("Gourav", 21,70.5,"Weight Loss",2500 );
 
         Workout cardio = new CardioWorkout(30);
         cardio.startWorkout();
