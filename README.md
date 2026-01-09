@@ -94,3 +94,12 @@
 - *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
 ---
+## Day 19 - Scenario Based
+*Date:* 07-Jan-2026
+- Solved 2 scenario based question
+  - Scenarios Covered:
+  -MediStore – Pharmacy Inventory & Sales System
+  -TourMate – Travel Itinerary Planner
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
