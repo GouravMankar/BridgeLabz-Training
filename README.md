@@ -277,3 +277,22 @@ Practiced 3 scenario-based questions
 - *Code Link:* [ScenarioBased](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
 
 ---
+
+## Day 23 - Scenario Based
+*Date:* 12-Jan-2026
+
+- Solved 4 scenario based question of DSA
+- Scenarios Covered:
+ - CallCenter – Customer Queue Manager (Queue + HashMap)
+ - TrainCompanion – Compartment Navigation System (Doubly Linked List)
+ - TextEditor – Undo/Redo Functionality (Stack)
+ - TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
+- Solved 3 scenario based question of OOPs
+- Scenarios Covered:
+ - HomeNest – Smart Home Device Manager
+ - BudgetWise – Personal Finance Tracker
+ - GameBox – Mobile Game Distribution Platform
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
