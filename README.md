@@ -43,7 +43,7 @@
 - *Code Link:* [Searching Techniques](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/linearandbinarysearch)
 
 ---
-## Week 4 – Scenario Based Questions ##
+## Week 5 – Scenario Based Questions ##
 
 ## Day 22 - Scenario Based
 *Date:* 10-Jan-2026
@@ -53,7 +53,7 @@
  - BookShelf – Library Organizer (HashMap + Linked List)
  - BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
  - AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
-- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/linearandbinarysearch)
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
 
 ---
 
@@ -66,6 +66,6 @@
  - TrainCompanion – Compartment Navigation System (Doubly Linked List)
  - TextEditor – Undo/Redo Functionality (Stack)
  - TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)
-- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/linearandbinarysearch)
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
 
 ---
