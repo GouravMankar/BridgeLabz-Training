@@ -41,3 +41,18 @@
 - Implemented Linear Search for unsorted data and simple search-based problems
 - Practiced Binary Search on sorted data for advanced cases like rotation point, peak element, and 2D matrix search
 - *Code Link:* [Searching Techniques](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/linearandbinarysearch)
+
+---
+## Week 4 – Scenario Based Questions ##
+
+## Day 22 - Scenario Based
+*Date:* 10-Jan-2026
+
+- Solved 3 scenario based question
+- Scenarios Covered:
+ - BookShelf – Library Organizer (HashMap + Linked List)
+ - BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+ - AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/linearandbinarysearch)
+
+---
