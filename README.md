@@ -264,3 +264,16 @@ Practiced 3 scenario-based questions
 - *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
 ---
+## Week 5 – Scenario Based Questions ##
+
+## Day 22 - Scenario Based
+*Date:* 10-Jan-2026
+
+- Solved 3 scenario based question
+- Scenarios Covered:
+ - BookShelf – Library Organizer (HashMap + Linked List)
+ - BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+ - AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
+
+---
