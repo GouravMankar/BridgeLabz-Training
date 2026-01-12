@@ -56,3 +56,16 @@
 - *Code Link:* [ScenarioBased](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/linearandbinarysearch)
 
 ---
+
+## Day 23 - Scenario Based
+*Date:* 12-Jan-2026
+
+- Solved 4 scenario based question
+- Scenarios Covered:
+ - CallCenter – Customer Queue Manager (Queue + HashMap)
+ - TrainCompanion – Compartment Navigation System (Doubly Linked List)
+ - TextEditor – Undo/Redo Functionality (Stack)
+ - TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/DataStructurePractice/src/com/linearandbinarysearch)
+
+---
