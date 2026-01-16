@@ -296,3 +296,19 @@ Practiced 3 scenario-based questions
 - *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
 ---
+## Day 24 - Scenario Based
+*Date:* 13-Jan-2026
+
+- Solved 3 scenario based question of DSA
+- Scenarios Covered:
+ - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+ - ParcelTracker – Delivery Chain Management (Singly Linked List)
+ - ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
+- Solved 2 scenario based question of OOPs
+- Scenarios Covered:
+ - PayXpress – Utility Bill Payment System
+ - Bird Sanctuary – Design and implement a Bird Sanctuary system
+- *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
