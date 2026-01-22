@@ -312,3 +312,18 @@ Practiced 3 scenario-based questions
 - *Code Link:* [ScenarioBased](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
 ---
+## Day 25 –  Practiced Scenario-based Problems for DSA
+**(Date: 15-Jan-2026)**
+
+- Solved Scenario based problems
+  - HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
+  - SmartShelf – Real-Time Book Arrangement (Insertion Sort)
+  - ZipZipMart – Daily Sales Summary Report (Merge Sort)
+  - EventManager – Ticket Price Optimizer (Quick Sort)
+  - ExamCell – Student Rank Generator (Merge Sort)
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
