@@ -327,3 +327,16 @@ Practiced 3 scenario-based questions
 👉 [Scenario Based Problems](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
 ---
+## Day 26 –  Practiced Scenario-based Problems for DSA
+**(Date: 16-Jan-2026)**
+
+- Solved Scenario based problems for DSA
+  - RoboWarehouse – Shelf Loading Robot (Insertion Sort)
+  - CinemaHouse – Movie Time Sorting (Bubble Sort)
+  - CropMonitor – Sensor Data Ordering (Quick Sort)
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+---
