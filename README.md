@@ -340,3 +340,20 @@ Practiced 3 scenario-based questions
 👉 [Scenario Based Problems](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
 
 ---
+## Day 27 –  Practiced Scenario-based Problems
+**(Date: 17-Jan-2026)**
+
+- Solved Scenario based problems for DSA.
+
+👉 [Scenario Based Problems DSA](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+
+- Studied the concept of Generics in Java.
+- Learned generic classes, generic methods, and bounded types.
+
+👉 [Generics](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/generics)
+
+- Solved Scenario based problems for OOPS.
+
+👉 [Scenario Based Problems OOPS](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedProgram/src/com)
+
+---
