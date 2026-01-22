@@ -345,12 +345,29 @@ Practiced 3 scenario-based questions
 
 - Solved Scenario based problems for DSA.
 
-👉 [Scenario Based Problems DSA](https://github.com/GouravMankar/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblem/src)
+👉 [Scenario Based Problems DSA](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
 
 - Studied the concept of Generics in Java.
 - Learned generic classes, generic methods, and bounded types.
 
 👉 [Generics](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/generics)
+
+- Solved Scenario based problems for OOPS.
+
+👉 [Scenario Based Problems OOPS](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedProgram/src/com)
+
+---
+## Day 28 –  Practiced Scenario-based Problems
+**(Date: 19-Jan-2026)**
+
+- Solved Scenario based problems for DSA.
+
+👉 [Scenario Based Problems DSA](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)
+
+- Studied the Java Collections Framework and its core interfaces.
+- Learned List, Set, Map, and Queue along with their characteristics.
+
+👉 [Collection Framework](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/collections)
 
 - Solved Scenario based problems for OOPS.
 
