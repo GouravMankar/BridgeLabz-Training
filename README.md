@@ -414,3 +414,17 @@ Practiced 3 scenario-based questions
 👉 [Day 31 – Regex and JUnit](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src)
 
 ---
+
+### 🗓 Day 32 – Annotations and Reflection  
+**(Date: 23-Jan-2026)**
+
+- Studied Java Annotations and their purpose.
+- Learned built-in and custom annotations.
+- Understood Java Reflection API and its use cases.
+- Practiced accessing fields, methods, and constructors using reflection.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 32 – Annotations and Reflection](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com)
+
+---
