@@ -428,3 +428,19 @@ Practiced 3 scenario-based questions
 👉 [Day 32 – Annotations and Reflection](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com)
 
 ---
+
+### 🗓 Day 34 – Practiced Scenario-based Problems  
+**(Date: 27-Jan-2026)**
+
+- Solved Scenario based problems
+  - ResumeAnalyzer – Resume data handling using I/O Streams, Regex, Collections, and Exception Handling
+  - TravelLog – File handling with Serialization, Regex-based search, and Collection-based summarization
+  - FeedbackGuru – Text file handling using I/O, Regex extraction, Generics, and Exception Handling
+  - CodeRepoCleaner – File scanning and organization using I/O, Regex validation, Streams, and Collections
+  - ExamScanner – CSV file handling, Regex-based validation, Generics, and result processing using Collections
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/SecnarioBasedProblems/src/com)
+
+---
