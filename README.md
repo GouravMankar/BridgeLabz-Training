@@ -565,3 +565,16 @@ Practiced 3 scenario-based questions
 👉 [Day 43 – Library Management System Case Study](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/javadesignpatternpractice/src/com/librarymanagementsystem)
 
 ---
+### 🗓 Day 44 – Multithreading Practice  
+**(Date: 07-Feb-2026)**
+
+- Studied the fundamentals of Multithreading in Java.
+- Practiced creating threads using Thread class and Runnable interface.
+- Implemented thread synchronization and communication.
+- Explored thread lifecycle and concurrency handling.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 44 – Multithreading Practice](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/javadesignpatternpractice/src/com/multithreading)
+
+---
