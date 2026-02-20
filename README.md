@@ -591,3 +591,16 @@ Practiced 3 scenario-based questions
 👉 [Day 45 – Multithreading Bank Transaction](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/scenario-based-codebase/ScenarioBasedProblem/src/com/banktransactions)
 
 ---
+### 🗓 Day 46 – MySQL Practice  
+**(Date: 10-Feb-2026)**
+
+- Practiced writing SQL queries in MySQL.
+- Worked on CRUD operations and table relationships.
+- Explored joins, constraints, and indexing concepts.
+- Implemented queries for data retrieval and optimization.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 46 – MySQL Practice](https://github.com/GouravMankar/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/practice-exercises)
+
+---
