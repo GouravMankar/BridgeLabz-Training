@@ -484,3 +484,17 @@ Practiced 3 scenario-based questions
 👉 [Scenario Based Problems](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based-codebase/SecnarioBasedProblems/src/com)
 
 ---
+
+### 🗓 Day 38 – Lambda and Functional Interface  
+**(Date: 31-Jan-2026)**
+
+- Studied the concept of Lambda expressions in Java.  
+- Learned Functional Interfaces and their purpose.  
+- Practiced implementing lambda expressions with functional interfaces.  
+- Explored built-in functional interfaces like Predicate, Consumer, Supplier, and Function.  
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 38 – Lambda and Functional Interface](https://github.com/GouravMankar/BridgeLabz-Training/tree/java8-programming-practice/java8-pragramming-practice/grc-codebase/Java8ProgrammingPractice/src/com)
+
+---
