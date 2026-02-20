@@ -604,3 +604,16 @@ Practiced 3 scenario-based questions
 👉 [Day 46 – MySQL Practice](https://github.com/GouravMankar/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/practice-exercises)
 
 ---
+### 🗓 Day 47 – Practiced Scenario-based Problems (MySQL)  
+**(Date: 11-Feb-2026)**
+
+- Solved scenario-based problems using MySQL with real-world datasets.
+- Designed relational schemas and applied normalization concepts.
+- Implemented complex queries using JOIN, GROUP BY, HAVING, and subqueries.
+- Practiced transaction handling and constraint-based validations.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 47 – MySQL Scenario Based](https://github.com/GouravMankar/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based)
+
+---
