@@ -400,3 +400,17 @@ Practiced 3 scenario-based questions
 👉 [Exception Handling](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/exceptionhandling)
 
 ---
+
+### 🗓 Day 31 – Regex and JUnit  
+**(Date: 22-Jan-2026)**
+
+- Studied Regular Expressions (Regex) for pattern matching in Java.
+- Practiced using regex for validation and text processing.
+- Learned the basics of JUnit for unit testing in Java.
+- Implemented test cases using JUnit annotations and assertions.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 31 – Regex and JUnit](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src)
+
+---
