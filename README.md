@@ -25,7 +25,7 @@
 - Practiced adding, committing, and pushing Java files to GitHub.
 
  *Code Link:*  
- [Day 2 – Basic Java Programs](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-requisites)
+ [Day 2 – Basic Java Programs](https://github.com/GouravMankar/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-requisites)
 
 ---
 
@@ -40,7 +40,7 @@
 - Committed and pushed solutions to the repository.
 
  *Code Link:*  
- [Day 3 – Programming Elements](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+ [Day 3 – Programming Elements](https://github.com/GouravMankar/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
@@ -62,7 +62,7 @@
 - Committed and pushed solutions to the repository.
 
  *Code Link:*  
- [Day 4 – Control Flow](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+ [Day 4 – Control Flow](https://github.com/GouravMankar/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ---
 
@@ -80,7 +80,7 @@
 - Committed and pushed solutions to the repository.
 
  *Code Link:*  
- [Day 5 – Arrays](https://github.com/username/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+ [Day 5 – Arrays](https://github.com/GouravMankar/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -372,5 +372,18 @@ Practiced 3 scenario-based questions
 - Solved Scenario based problems for OOPS.
 
 👉 [Scenario Based Problems OOPS](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/ScenarioBasedProgram/src/com)
+
+---
+
+### 🗓 Day 29 – Practiced Scenario-based Problems & Java Streams  
+**(Date: 20-Jan-2026)**
+
+- Solved scenario-based problems on DSA using sorting techniques (Insertion, Merge, Quick Sort).
+- Studied Java Streams for efficient data processing.
+- Learned file handling using Java Streams.
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems DSA](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)  
+👉 [Java Streams](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/streams)
 
 ---
