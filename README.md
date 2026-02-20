@@ -525,3 +525,17 @@ Practiced 3 scenario-based questions
 👉 [Day 40 – Collectors](https://github.com/GouravMankar/BridgeLabz-Training/tree/java8-programming-practice/java8-pragramming-practice/grc-codebase/Java8ProgrammingPractice/src/com/collectors)
 
 ---
+
+### 🗓 Day 41 – Workshop: Smart City Transport & Service Management System  
+**(Date: 04-Feb-2026)**
+
+- Participated in workshop on Smart City Transport & Service Management System.  
+- Understood system design and real-world problem modeling.  
+- Practiced implementing scenario-based problems related to transport and service management.  
+- Applied collections and stream concepts in practical use cases.  
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 41 – Workshop](https://github.com/GouravMankar/BridgeLabz-Training/tree/java8-programming-practice/java8-pragramming-practice/grc-codebase/Java8ProgrammingPractice/src/com/workshop/smartcitytransportandservicemanagementsystem)
+
+---
