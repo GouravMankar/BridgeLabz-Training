@@ -617,3 +617,15 @@ Practiced 3 scenario-based questions
 👉 [Day 47 – MySQL Scenario Based](https://github.com/GouravMankar/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based)
 
 ---
+### 🗓 Day 48 – Practiced Scenario-based Problems (MySQL)  
+**(Date: 12-Feb-2026)**
+
+- Solved advanced scenario-based problems using MySQL.
+- Designed optimized queries involving multiple joins and subqueries.
+- Implemented transaction management and data consistency checks.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 48 – MySQL Scenario Based](https://github.com/GouravMankar/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based)
+
+---
