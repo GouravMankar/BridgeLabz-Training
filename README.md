@@ -387,3 +387,16 @@ Practiced 3 scenario-based questions
 👉 [Java Streams](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/streams)
 
 ---
+### 🗓 Day 30 – Practiced Scenario-based Problems & Exception Handling  
+**(Date: 21-Jan-2026)**
+
+- Solved scenario-based problems on DSA involving sorting and data organization use cases.
+- Studied Java Exception Handling concepts and exception hierarchy.
+- Practiced handling exceptions using try-catch-finally blocks.
+- Implemented custom exception handling using throw and throws.
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems DSA](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-dsa-practice/java-dsa-practice/scenario-based-codebase/ScenarioBasedPrograms/src/com)  
+👉 [Exception Handling](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/exceptionhandling)
+
+---
