@@ -629,3 +629,17 @@ Practiced 3 scenario-based questions
 👉 [Day 48 – MySQL Scenario Based](https://github.com/GouravMankar/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based)
 
 ---
+
+### 🗓 Day 49 – JDBC Practice  
+**(Date: 13-Feb-2026)**
+
+- Practiced establishing database connection using JDBC.
+- Performed basic CRUD operations using Statement and PreparedStatement.
+- Worked with ResultSet to retrieve data from database.
+- Handled SQL exceptions and proper resource closing.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 49 – JDBC Practice](https://github.com/GouravMankar/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/JDBC/JDBC-Practice/src/main/java/hospitalmanagementsystem)
+
+---
