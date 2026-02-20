@@ -539,3 +539,16 @@ Practiced 3 scenario-based questions
 👉 [Day 41 – Workshop](https://github.com/GouravMankar/BridgeLabz-Training/tree/java8-programming-practice/java8-pragramming-practice/grc-codebase/Java8ProgrammingPractice/src/com/workshop/smartcitytransportandservicemanagementsystem)
 
 ---
+### 🗓 Day 42 – Practiced Scenario-based Problems (Java 8)  
+**(Date: 05-Feb-2026)**
+
+- Solved scenario-based problems using Java 8 features.  
+- Applied Lambda expressions and Functional Interfaces in real-world cases.  
+- Used Stream API and Collectors for data processing.  
+- Practiced writing clean and optimized Java 8 code.  
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 42 – Scenario Based Java 8](https://github.com/GouravMankar/BridgeLabz-Training/tree/java8-programming-practice/java8-pragramming-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
+
+---
