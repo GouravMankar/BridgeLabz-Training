@@ -656,3 +656,16 @@ Practiced 3 scenario-based questions
 👉 [Day 50 – JDBC Practice](https://github.com/GouravMankar/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/JDBC/JDBC-Practice/src/main/java/hospitalmanagementsystem)
 
 ---
+### 🗓 Day 51 – JDBC Practice  
+**(Date: 16-Feb-2026)**
+
+- Practiced calling stored procedures using CallableStatement.
+- Worked with batch operations and transaction handling.
+- Improved understanding of database connectivity flow.
+- Applied best practices for secure database operations.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 51 – JDBC Practice](https://github.com/GouravMankar/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/JDBC/JDBC-Practice/src/main/java/hospitalmanagementsystem)
+
+---
