@@ -495,6 +495,20 @@ Practiced 3 scenario-based questions
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 38 – Lambda and Functional Interface](https://github.com/GouravMankar/BridgeLabz-Training/tree/java8-programming-practice/java8-pragramming-practice/grc-codebase/Java8ProgrammingPractice/src/com)
+👉 [Day 38 – Lambda and Functional Interface](https://github.com/GouravMankar/BridgeLabz-Training/tree/java8-programming-practice/java8-pragramming-practice/grc-codebase/Java8ProgrammingPractice/src/com/functionalinterfaces)
+
+---
+
+### 🗓 Day 39 – Stream API  
+**(Date: 02-Feb-2026)**
+
+- Studied the concept of Stream API in Java.  
+- Learned intermediate and terminal stream operations.  
+- Practiced operations like filter, map, sorted, and collect.  
+- Implemented data processing using streams on collections.  
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 39 – Stream API](https://github.com/GouravMankar/BridgeLabz-Training/tree/java8-programming-practice/java8-pragramming-practice/grc-codebase/Java8ProgrammingPractice/src/com/streamapi)
 
 ---
