@@ -643,3 +643,16 @@ Practiced 3 scenario-based questions
 👉 [Day 49 – JDBC Practice](https://github.com/GouravMankar/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/JDBC/JDBC-Practice/src/main/java/hospitalmanagementsystem)
 
 ---
+### 🗓 Day 50 – JDBC Practice  
+**(Date: 14-Feb-2026)**
+
+- Practiced executing queries using PreparedStatement.
+- Worked with batch operations and transaction handling.
+- Used commit and rollback for data consistency.
+- Explored ResultSet metadata and query execution flow.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 50 – JDBC Practice](https://github.com/GouravMankar/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/JDBC/JDBC-Practice/src/main/java/hospitalmanagementsystem)
+
+---
