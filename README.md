@@ -458,3 +458,16 @@ Practiced 3 scenario-based questions
 👉 [CSV Data Handling](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsPractice/src/com/csvdatahandling)
 
 ---
+### 🗓 Day 36 – JSON Data Handling 
+**(Date: 29-Jan-2026)**
+
+- Studied JSON data structure and validation concepts.
+- Learned converting CSV data into JSON format.
+- Practiced validating JSON data generated from CSV files.
+- Implemented error handling for invalid or inconsistent data.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 36 – JSON Data Handling (CSV to JSON Validation)](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsPractice/src/com/jsondata)
+
+---
