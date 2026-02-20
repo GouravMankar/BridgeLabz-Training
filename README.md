@@ -444,3 +444,17 @@ Practiced 3 scenario-based questions
 👉 [Scenario Based Problems](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/SecnarioBasedProblems/src/com)
 
 ---
+
+### 🗓 Day 35 – Scenario-based Problems & CSV Data Handling  
+**(Date: 28-Jan-2026)**
+
+- Solved real-world scenario-based problems involving CSV processing, Regex validation, Collections, Generics, and Custom Exception Handling.
+- Studied the structure and format of CSV files.
+- Learned reading and processing CSV data using FileReader and BufferedReader.
+- Practiced parsing, validation, and error handling for CSV records.
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/SecnarioBasedProblems/src/com)  
+👉 [CSV Data Handling](https://github.com/GouravMankar/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreamsPractice/src/com/csvdatahandling)
+
+---
