@@ -512,3 +512,16 @@ Practiced 3 scenario-based questions
 👉 [Day 39 – Stream API](https://github.com/GouravMankar/BridgeLabz-Training/tree/java8-programming-practice/java8-pragramming-practice/grc-codebase/Java8ProgrammingPractice/src/com/streamapi)
 
 ---
+### 🗓 Day 40 – Collectors  
+**(Date: 03-Feb-2026)**
+
+- Studied the Collectors utility class in Java Stream API.  
+- Learned different collector methods like toList, toSet, toMap, and groupingBy.  
+- Practiced collecting and transforming stream data into various collections.  
+- Implemented grouping and partitioning operations using collectors.  
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 40 – Collectors](https://github.com/GouravMankar/BridgeLabz-Training/tree/java8-programming-practice/java8-pragramming-practice/grc-codebase/Java8ProgrammingPractice/src/com/collectors)
+
+---
