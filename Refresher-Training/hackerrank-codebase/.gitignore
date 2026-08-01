@@ -1,0 +1,70 @@
+
+# Java
+
+# Compiled class files
+*.class
+module-info.java
+
+# Logs
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# JVM crash logs
+hs_err_pid*
+
+# Eclipse
+
+.classpath
+.project
+.settings/
+
+# VS Code
+
+.vscode/
+
+# IntelliJ IDEA
+
+.idea/
+*.iml
+
+# NetBeans
+
+nbproject/private/
+build/
+dist/
+
+# Maven
+
+target/
+
+# Gradle
+
+.gradle/
+build/
+
+# Java Modules
+
+out/
+
+# Bin folder
+
+bin/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Metadata
+
+**/.metadata/
+
+# Temporary files
+
+*.tmp
+*.bak
+*.swp
